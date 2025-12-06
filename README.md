@@ -1,4 +1,4 @@
-<img width="570" height="407" alt="Screenshot 2025-11-27 174940" src="https://github.com/user-attachments/assets/f8e4b019-dbd4-4e95-8d4f-17df404b03f1" /># SR-FLIPFLOP-USING-CASE
+
 
 **AIM:**
 
